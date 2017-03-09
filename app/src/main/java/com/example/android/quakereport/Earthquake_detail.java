@@ -6,18 +6,18 @@ import android.widget.ArrayAdapter;
 import java.util.Date;
 
 public class Earthquake_detail {
-    private float mEarthqfrequency;
+    private String mEarthqfrequency;
     private String mcityname;
     private String mEarthqdate;
 
 
-    public Earthquake_detail(float Earthqfrequency, String cityname, String Earthqdate) {
+    public Earthquake_detail(String Earthqfrequency, String cityname, String Earthqdate) {
         mEarthqfrequency = Earthqfrequency;
         mcityname = cityname;
         mEarthqdate = Earthqdate;
     }
 
-    public float getmEarthqfrequency() {
+    public String getmEarthqfrequency() {
         return mEarthqfrequency;
     }
 

@@ -15,7 +15,6 @@
             android:id="@+id/Text_View_Frequncy"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="7.2"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp" />
 
@@ -23,7 +22,6 @@
             android:id="@+id/Text_View_City"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="San Fransisco"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp"
             android:paddingLeft="40dp"/>
@@ -32,7 +30,6 @@
             android:id="@+id/Text_View_Date"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2016/02/02"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp"
             android:paddingLeft="40dp"/>
